@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FavoriteMovie</string>
+    <string name="share">Share</string>
+    <string name="release_date">Release Date</string>
+    <string name="detail">Detail</string>
+    <string name="title">Title</string>
+    <string name="rate">Rating</string>
+    <string name="sinosis">Summary of The Story</string>
+    <string name="desc">Description</string>
+    <string name="vote_count">Vote Count</string>
+    <string name="popularity">Popularity</string>
+    <string name="cv_save">Successfully added to favorite!</string>
+    <string name="cv_delete">This movie has been removed from favorite list!</string>
+    <string name="detail_movie">Detail Movie</string>
+</resources>
